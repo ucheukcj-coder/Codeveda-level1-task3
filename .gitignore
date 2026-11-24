@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+*.min.js
+*.min.css
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Images (screenshots - add your own)
+images/*.png
+images/*.jpg
+images/*.jpeg
+images/*.webp
+images/*.gif
+
+# Temp files
+*.tmp
+*.temp
